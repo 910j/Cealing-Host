@@ -1,7 +1,8 @@
 <h1 align="center">Cealing - Host</h1>
 <h3 align="center">- Cealing Host Up 2 Date -</h3>
 </br>
-
+# 转化网址：
+https://bulianglin.com/archives/snibypass.html
 ## 自我介绍
 **Cealing Host 存储库**: 用于管理最新的 Sheas Cealer 内置伪造规则
 
