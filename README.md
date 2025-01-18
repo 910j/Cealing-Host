@@ -5,6 +5,7 @@
 ## 转化网址：
 https://bulianglin.com/archives/snibypass.html
 
+ --host-rules="MAP *google* g.cn,MAP *youtube.com g.cn,MAP *.ggpht.com g.cn,MAP i.ytimg.com g.cn," --host-resolver-rules="MAP g.cn 109.185.236.240," --test-type --ignore-certificate-errors
 ## 自我介绍
 **Cealing Host 存储库**: 用于管理最新的 Sheas Cealer 内置伪造规则
 
